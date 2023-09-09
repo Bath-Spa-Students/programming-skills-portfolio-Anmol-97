@@ -1,5 +1,3 @@
-TESTING PHASE
-
 
 # Chapter 1 Exercises
 
